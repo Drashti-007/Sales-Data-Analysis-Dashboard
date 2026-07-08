@@ -93,6 +93,10 @@ The interactive dashboard includes:
 - Sales showed an overall upward trend between **2014 and 2017**.
 - A small number of products contributed significantly to total profit.
 
+## Dashboard Preview
+
+![Sales Dashboard](images/dashboard.png)
+
 ## Skills Demonstrated
 
 - Data Cleaning
