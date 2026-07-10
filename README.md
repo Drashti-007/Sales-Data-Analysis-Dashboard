@@ -28,17 +28,20 @@ The final output is an interactive Power BI dashboard that allows users to explo
 Sales-Dashboard-Analysis/
 │
 ├── data/
-│   ├── Superstore.csv
+│   ├── Sample - Superstore.csv
 │   └── Cleaned_superstore.csv
 │
 ├── notebooks/
-│   └── Sales_Analysis.ipynb
+│   └── sales_analysis.ipynb
 │
 ├── dashboard/
-│   └── Sales_Dashboard.pbix
+│   └── Supermarket_dashboard.pbix
 │
 ├── images/
 │   └── dashboard.png
+|   └── sales by region.png
+|   └── sales trend.png
+|   └── top 10 product.png
 │
 ├── README.md
 └── requirements.txt
